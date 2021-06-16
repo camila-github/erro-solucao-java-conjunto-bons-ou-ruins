@@ -1,4 +1,4 @@
-## Exercicio (Java): Abreviando posts do blog
+## Exercicio (Java): Conjuntos bons ou ruins
 
 O exercicio publicado é referente ao treinamento do Bootcamp Java - Praticando Programação em Java 
 (https://digitalinnovation.one)
